@@ -1,0 +1,203 @@
+.about{
+    color: rgb(236, 194, 130);
+    width: 100%;
+  padding-top: 80px;
+    margin: 0 auto; 
+     font-family: Arial, Helvetica, sans-serif;
+  font-style: unset;
+  font-weight: 500;
+  font-size: 70px;
+  line-height: 120px;
+  padding-left: 25rem;
+   
+}
+.ab{
+    width: 100%;
+   padding-bottom: 20px;
+}
+  .aa3{
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    border-radius: 5rem;
+
+  }
+.Aa1{
+    margin: 0 auto;
+    width: 100%;
+    padding-bottom: 10px;
+  padding-left: 28px;
+  padding-right: 30px;
+    font-family:'Inter';
+font-style: italic;
+font-weight: 250;
+font-size: 20px;
+line-height: 30px;
+color: #000000;
+
+}
+.Aq{
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    border-radius: 5rem; 
+}
+.new6{
+  color: rgb(236, 194, 130);
+  width: 100%;
+padding-top: 50px;
+  margin: 0 auto; 
+  font-family: Arial, Helvetica, sans-serif;
+font-style: unset;
+font-weight: 600;
+font-size: 60px;
+line-height: 170px;
+padding-left: 26rem;
+}
+.item5{
+   
+  background-image: url(./img/A3.jpg);
+  flex-grow: 3;
+
+}
+
+.item6{
+
+  background-image: url(./img/Ad.jpg);
+  flex-grow: 3;
+ 
+ 
+}
+
+
+
+li:hover{
+  flex-grow: 16;
+}
+.new10{
+  color: rgb(236, 194, 130);
+  width: 100%;
+padding-top: 30px;
+  margin: 0 auto; 
+  font-family: Arial, Helvetica, sans-serif;
+font-style: unset;
+font-weight: 300;
+font-size: 40px;
+line-height: 100px;
+padding-left: 28rem;
+}
+.block{
+  padding-top: 200px;
+    margin: auto;
+  
+}
+.login{
+  padding: 20px ;
+  border: 2px solid lightgray;
+    background-color: #FFF4D8;
+    width: 450px;
+    height: 450px;
+    margin:  auto;
+    border-radius: 25px;
+   
+}
+.account{
+  padding-top: 20px;
+    display: block;
+  padding-bottom: 20px;
+    height: 50px;
+    margin:  0 auto;
+    justify-content: center;
+}
+
+
+.q1{
+  font-size: 35px;
+  font-weight: 200;
+  padding-left: 170px;
+  
+}
+.AS{
+ 
+  margin: 0 auto;
+  width: 350px;
+   
+}
+.AS input{
+  width: 350px;
+    height: 50px;
+    border: 0px;
+    border-radius: 20px;
+    margin: 15px 25px 0 15px;
+    font-size: 16px;
+    padding-left: 15px;
+}
+.bot a{
+  float: right;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-right: 15px;
+    font-size: 20px;
+}
+a{
+  color: #000;
+}
+.block button{
+  width: 100px;
+    height: 50px;
+    color: rgb(15, 14, 9);
+    margin: 30px 150px;
+    border: 0;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.blue{
+  background-color: rgb(232, 200, 56);
+}
+
+.fbb{
+  width: 400px;
+    height: 50px;
+    background-color: #0073B4;
+    border-radius: 10px;
+    margin: 22px 0;
+   text-align: center;
+}
+.fbb p{
+  font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    float: left;
+ text-align: center;
+ line-height: 50px;
+ 
+ width: 400px;
+ height: 50px;
+  
+}
+.new1   {
+  width: 300px;
+  float:left; /* 圖片在左邊 */
+  padding: 20px;
+}
+.word1 p{
+  font-size: 18px;
+    line-height: 2;
+   
+    
+}
+.word1{
+  float: left;  /* 文字在右邊 */
+  width: 300px;
+     padding: 20px 20px 0px 0px;
+      
+}
+.d11{
+margin: 0 auto;
+width: 50%;
+
+}

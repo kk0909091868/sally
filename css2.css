@@ -1,0 +1,91 @@
+
+
+.new2{
+    color: rgb(236, 194, 130);
+  width: 100%;
+padding-top: 50px;
+  margin: 0 auto;  
+ 
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: unset;
+font-weight: 700;
+font-size: 70px;
+line-height: 120px;
+padding-left: 26rem;
+
+
+}
+
+.a{
+    max-width: 1200px;
+margin: 30px auto ;
+width: 100%;
+}
+.fi2{
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    outline: 5px solid white;
+
+    display: flex;
+}
+
+li{
+    background-size: cover;
+    background-position: center center;
+    transition: .5s;
+}
+
+.item1{
+   
+    background-image: url(./img/new2.jpg);
+    flex-grow: 3;
+  
+}
+
+.item2{
+  
+    background-image: url(./img/newyear1.jpg);
+    flex-grow: 3;
+   
+}
+
+
+
+li:hover{
+    flex-grow: 16;
+}
+.new5{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    color: rgb(40, 39, 39);
+    font-weight: 700;
+    font-size:60px;
+}
+
+.nember1{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    color: rgb(248, 202, 141);
+    font-weight: 600;
+    font-size:40px;
+}
+.girl{
+    margin: 0 auto;
+height: 600px;
+    width: 700px;
+   
+    padding-bottom: 20px;
+    border-radius: 5rem;
+}
+.hello3{
+    padding-top: 10px;
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}

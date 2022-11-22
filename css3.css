@@ -1,14 +1,15 @@
 .about{
-    color: rgb(236, 194, 130);
+    color: rgb(159 229 109);
     width: 100%;
-  padding-top: 80px;
-    margin: 0 auto; 
+    padding-top: 100px;
+    margin: 0 auto;  padding-left: 25rem;
+  margin: auto;
      font-family: Arial, Helvetica, sans-serif;
   font-style: unset;
-  font-weight: 500;
+  font-weight: 550;
   font-size: 70px;
-  line-height: 120px;
-  padding-left: 25rem;
+  line-height: 100px;
+ 
    
 }
 .ab{
@@ -16,12 +17,11 @@
    padding-bottom: 20px;
 }
   .aa3{
-    width: 100%;
-    padding-left: 30px;
-    padding-right: 30px;
+   max-width: 100%;
+   
     padding-bottom: 20px;
-    border-radius: 5rem;
-
+   
+    margin: auto;
   }
 .Aa1{
     margin: 0 auto;
@@ -45,62 +45,49 @@ color: #000000;
     border-radius: 5rem; 
 }
 .new6{
-  color: rgb(236, 194, 130);
+  color: rgb(159 229 109);
   width: 100%;
-padding-top: 50px;
+  padding-top: 100px;
   margin: 0 auto; 
   font-family: Arial, Helvetica, sans-serif;
 font-style: unset;
 font-weight: 600;
 font-size: 60px;
-line-height: 170px;
-padding-left: 26rem;
-}
-.item5{
-   
-  background-image: url(./img/A3.jpg);
-  flex-grow: 3;
-
-}
-
-.item6{
-
-  background-image: url(./img/Ad.jpg);
-  flex-grow: 3;
- 
- 
-}
-
-
-
-li:hover{
-  flex-grow: 16;
-}
-.new10{
-  color: rgb(236, 194, 130);
-  width: 100%;
-padding-top: 30px;
-  margin: 0 auto; 
-  font-family: Arial, Helvetica, sans-serif;
-font-style: unset;
-font-weight: 300;
-font-size: 40px;
-line-height: 100px;
+line-height: 90px;
 padding-left: 28rem;
 }
+
+
+
+
+
+.new10{
+  color: rgb(159 229 109);
+  width: 100%;
+padding-top: 25px;
+padding-bottom: 10px;
+  margin: auto; 
+  font-family: Arial, Helvetica, sans-serif;
+font-style: unset;
+font-weight: 600;
+font-size: 50px;
+line-height: 100px;
+padding-left: 30rem;
+}
 .block{
-  padding-top: 200px;
+  padding-top: 140px;
     margin: auto;
-  
+  padding-bottom: 20px;
 }
 .login{
+  box-shadow: 0 0 5px hsl(0deg 0% 60% / 45%);
   padding: 20px ;
-  border: 2px solid lightgray;
-    background-color: #FFF4D8;
+  border: 2px solid rgb(242, 210, 142);
+    background-color: #f0e8bf;
     width: 450px;
     height: 450px;
     margin:  auto;
-    border-radius: 25px;
+
    
 }
 .account{
@@ -115,9 +102,9 @@ padding-left: 28rem;
 
 .q1{
   font-size: 35px;
-  font-weight: 200;
+  font-weight:bold;
   padding-left: 170px;
-  
+ color: rgb(218, 125, 20); 
 }
 .AS{
  
@@ -152,6 +139,7 @@ a{
     border: 0;
     border-radius: 10px;
     font-size: 20px;
+   
 }
 .blue{
   background-color: rgb(232, 200, 56);
@@ -182,22 +170,123 @@ a{
 .new1   {
   width: 300px;
   float:left; /* 圖片在左邊 */
-  padding: 20px;
+ padding: 18px;
+ 
 }
 .word1 p{
-  font-size: 18px;
-    line-height: 2;
-   
+
+  font-size: 17px;
+    line-height: 1.6;
+   margin-left: 37px;
     
 }
 .word1{
   float: left;  /* 文字在右邊 */
-  width: 300px;
-     padding: 20px 20px 0px 0px;
-      
+  width: 250px;
+  
+      padding-top: 70px;
+      padding-right: 20px;
 }
 .d11{
-margin: 0 auto;
-width: 50%;
+
+width: 60%;
 
 }
+.a12{
+  width: 300px;
+float:left; /* 圖片在左邊 */
+padding: 18px;
+
+}
+.ab3{
+  width: 90%;
+ margin: auto;
+}
+.Ma ul {
+
+display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+ul{
+  list-style: none;
+}
+.Ma .G1{
+  
+  width: 250px;
+  
+  box-shadow: 0 0 5px hsl(0deg 0% 60% / 45%);
+  margin:0 auto;
+ 
+ 
+}
+.Ma h2{
+  padding-right: 1.3rem;
+padding-left: 2px;
+    color: #82796a;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Ma p {
+  padding-right: 2px;
+  padding-left: 2px;
+  color: #3d3932;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+  
+
+  .Ma .shopbtn {
+    background-color: #73d247;
+    color: rgb(16, 12, 12);
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    line-height: 2;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.Ma li a{
+  text-decoration: none;
+}
+div{
+  display:block;
+}
+.Ma img {
+  transition: transform 0.5s ease-in-out;
+}
+.hanger .bi{
+  display: none;
+  margin-bottom: 10px;
+}
+.img22{
+  margin-left: 35px;
+}
+.fi2{
+  position: relative;
+  margin: auto;
+  height: 460px;
+  width: 100%;
+
+}
+.fi2 img {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: none;
+  overflow: hidden;
+  
+}
+.sec{
+float: right;
+margin-right: 30px;
+margin-top: 20px
+
+  }
